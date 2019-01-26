@@ -1,1 +1,3 @@
-console.log('Hola desde webpack');
+let start = () => {
+	console.log(`Hola desde webpack`);
+}

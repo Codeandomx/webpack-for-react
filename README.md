@@ -24,6 +24,6 @@ Ingresa a la plataforma y se parte de nuestra comunidad (Plataforma en desarroll
 
 Si encuentras algún error en el código o la forma de optimizarlo, puedes informar al equipo de Codeando en el siguiente enlace (creando una issue) para realizar las correcciones correspondientes.-
 
-[Crear issue](https://github.com/codeandomx/webpack-for-react/issues)
+[Crear issue](https://github.com/codeandomx/webpack-for-rea/issues)
 
 Muchas gracias!!!
