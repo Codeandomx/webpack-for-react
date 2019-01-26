@@ -1,3 +1,1 @@
-let start = () => {
-	console.log(`Hola desde webpack`);
-}
+import App from './App.js';
