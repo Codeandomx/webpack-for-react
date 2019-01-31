@@ -12,8 +12,8 @@ Si quieres recibir actualizaciónes y novedades sobre el curso de Webpack, da cl
 
 ## Contenido
 
-1. [Webpack instalación y primeros pasos](http://blog.codeando.club/articulos/trabajando-con-formularios-en-reactjs.html)
-2. [Webpack modo de producción y desarrollo](http://blog.codeando.club/articulos/webpack-instalacion-y-primeros-pasos.html)
+1. [Webpack instalación y primeros pasos](http://blog.codeando.club/articulos/webpack-instalacion-y-primeros-pasos.html)
+2. [Webpack modo de producción y desarrollo](http://blog.codeando.club/articulos/webpack-modo-de-produccion-y-desarrollo.html)
 
 ## Ingresa a la plataforma
 
